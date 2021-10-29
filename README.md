@@ -20,9 +20,9 @@ const pedro = {
         backEnd: {
             java: ["Wildfly", "Spring Boot"]
         },
-        OS: ["Win10", "MacOs", "Ubuntu"],
+        OS: ["Win", "MacOs", "Ubuntu"],
         devOps: ["DigitalOccean", "Docker", "Apache2", "Nginx"],
-        databases: ["MySql", "Oracle", "Postgres"]
+        databases: ["MySql", "Oracle", "PostgreSQL"]
     }
 };
 ```
